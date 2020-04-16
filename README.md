@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors, Lizard, Spock!
-Demo: [https://rock-paper-scissors-lizard-spock.netlify.com](https://rock-paper-scissors-lizard-spock.netlify.com)
+Demo: [https://rpsls-andrew.netlify.com](https://rpsls-andrew.netlify.com)
 
 ![](images/screenshot.png)
 

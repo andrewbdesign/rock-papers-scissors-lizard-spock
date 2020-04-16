@@ -1,0 +1,21 @@
+.scoreboard {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  justify-content: space-between;
+  padding: 20px 30px;
+
+  p {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 30px;
+    span {
+      font-size: 58px;
+      font-weight: normal;
+      display: block;
+    }
+  }
+}

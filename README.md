@@ -11,7 +11,7 @@ RPSLS is an extension to the original game of rock-paper-scissors. The additiona
 The rules are simple: Scissors cuts paper. Paper covers rock. Rock crushes lizard. Lizard poisons Spock. Spock smashes scissors. Scissors decapitates lizard. Lizard eats paper. Paper disproves Spock. Spock vaporizes rock. Rock crushes scissors.
 
 # Background
-This is Day 4/100 of my #100DaysOfCode challenge on twitter: [@andrewbdesign](https://twitter.com/andrewbdesign)
+This is Day 5/100 of my #100DaysOfCode challenge on Twitter: [@andrewbdesign](https://twitter.com/andrewbdesign)
 
 My focus was to build something for desktop. Haven't done any responsive designs to it. Feel free to Submit PRs. 
 Note: I've used emojis for this build, so it may look different on your operating system.
